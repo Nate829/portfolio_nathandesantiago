@@ -1,0 +1,30 @@
+/*** KERNING & LEADING ASSIGNMENT STYLES ***/
+
+/* Do not change this style */
+.rectangle {
+  font-family: "Helvetica";
+  font-size: 1em;
+  background-color: white;
+  border: solid 1px black;
+  height: 300px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+#kerning {
+    letter-spacing: 6px;
+}
+
+h2 {
+    letter-spacing: 1px;
+
+}
+
+#leading {
+      line-height: 270%;
+  }
+
+  p.big {
+      line-height: 200%;
+  }
+}
