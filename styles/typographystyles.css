@@ -1,6 +1,5 @@
 /*** KERNING & LEADING ASSIGNMENT STYLES ***/
 
-/* Do not change this style */
 .rectangle {
   font-family: "Helvetica";
   font-size: 1em;
@@ -12,7 +11,7 @@
 }
 
 #kerning {
-    letter-spacing: 6px;
+    letter-spacing: 2.5px;
 }
 
 h2 {
@@ -27,4 +26,59 @@ h2 {
   p.big {
       line-height: 200%;
   }
+}
+/*** TEXT ALIGNMENT ASSIGNMENT STYLES ***/
+
+.align {
+  max-width: 80%;
+  margin: 1em auto;
+}
+
+#left_align {
+      text-align: left;
+  }
+
+  h2 {
+      text-align: center;
+  }
+
+   {
+      text-align: left;
+  }
+
+#right_align {
+  text-align: center;
+}
+
+h2 {
+  text-align: right;
+}
+
+ {
+  text-align: right;
+}
+
+#justify {
+  text-align: center;
+}
+
+h2 {
+   text-align: left;
+}
+
+ {
+   text-align: right;
+}
+
+
+#center {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+ {
+  text-align: center;
 }
