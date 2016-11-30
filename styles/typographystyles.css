@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+
 /*** KERNING & LEADING ASSIGNMENT STYLES ***/
 
 .rectangle {
@@ -109,4 +111,38 @@ section p {
 /* Change this style */
 .indent {
 
+}
+
+.weights {
+  font-family: "Roboto";
+  font-size: 32px;
+}
+
+#weight1 {
+  font-weight: 200;
+}
+
+#weight2 {
+  font-weight: 300;
+}
+
+#weight3 {
+  font-weight: 400;
+}
+
+#weight4 {
+  font-weight: 500;
+}
+
+#weight5 {
+  font-weight: 900;
+}
+
+#grandCanyon {
+  background-image: url("../images/grand_canyon.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
 }
