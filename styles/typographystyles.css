@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Lobster|Yanone+Kaffeesatz');
+
+
+
 
 /*** KERNING & LEADING ASSIGNMENT STYLES ***/
 
@@ -145,4 +150,22 @@ section p {
   height: 500px;
   width: 800px;
   margin: 0 auto;
+}
+
+#top {
+  font-family: "Lobster";
+  font-size: 60px;
+  font-weight: 900;
+  color: #FFAC3F;
+  text-align: center;
+}
+
+#top2 {
+  font-family: 'Yanone Kaffeesat';
+  font-size: 40px;
+  font-weight: 900;
+  color: #FFAC3F;
+  text-align: center;
+
+
 }
