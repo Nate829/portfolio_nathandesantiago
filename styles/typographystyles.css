@@ -158,6 +158,7 @@ section p {
   font-weight: 900;
   color: #FFAC3F;
   text-align: center;
+  text-shadow: 2px 2px #000
 }
 
 #top2 {
@@ -166,6 +167,26 @@ section p {
   font-weight: 900;
   color: #FFAC3F;
   text-align: center;
+  text-shadow: 2px 2px #000
+}
+
+#bottom {
+  font-family: "Lobster";
+  font-size: 20.2px;
+  font-weight: 900;
+  color: #FFAC3F;
+  text-align: center;
+  margin: 0 auto;
+  text-shadow: 2px 2px #FFF
+}
+
+#bottom2 {
+  font-family: "Lobster";
+  font-size: 15px;
+  font-weight: 900;
+  color: #FFAC3F;
+  text-align: right;
+  text-shadow: 2px 2px #000
 
 
 }

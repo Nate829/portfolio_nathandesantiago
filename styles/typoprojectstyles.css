@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.rectangle {
+  background-color: black;
+  border: solid 1px black;
+  height: 200px;
+  width: 850px;
+  margin: 0 auto;
+}
+
+
+#quote1 {
+
+  font-family: "Lobster";
+  font-size: 2.3em;
+  color: #FFF;
+  text-shadow: 1px 1px #E0A633;
+  line-height: 175px;
+  text-align: center;
+}
+
+
+.square {
+
+  background-color: #CECECE;
+  border: solid 1px black;
+  height: 300px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+
+#quote2 {
+
+  font-family: "Lobster";
+  font-size: 3.5em;
+  color: #FFAC3F;
+  text-align: center;
+  line-height: 78px;
+  text-shadow: 2px 2px #000;
+}
